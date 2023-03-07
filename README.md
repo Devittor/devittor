@@ -3,7 +3,7 @@
 </div>
 
 <h1>Olá, eu sou o Vitor 🖖🏻</h1>
-<p>🧔🏻 Sou dev Front-end developer, gosto de criar coisas desde criança e conhecimento é o sentido da minha vida.</p>
+<p>🧔🏻 Sou desenvolvedor Front-end, gosto de criar coisas e conhecimento é o sentido da minha vida.</p>
 
 <br>
 
