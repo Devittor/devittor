@@ -8,13 +8,13 @@
 <br>
 
 - 🌱 Atualmente aprendendo sobre **React JS, TypeScript, Next JS e Node JS**;
-- 💬 Tenho conhecimento em **JavaScript, HTML, CSS e React JS**;
+- 💬 Me pergunte sobre: **JavaScript, HTML, CSS e React JS**;
 - 🔍 Procurando se especializar no Front-end;
-- ⚡ Fato engraçado: Sou do rock 🤘🏻;
+- ⚡ Fato engraçado: Agora foquete dá ré 🚀;
 
 <br>
 
-### 🛠 Ferramentas que uso no dia a dia: ###
+### 🛠 Linguagens e ferramentas que uso: ###
 <div>
   <img src="https://skills.thijs.gg/icons?i=ts,js,html,css,react,nodejs,tailwind,styledcomponents" alt="Ferramentas" height="50"/>
 </div>
