@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Devittor/devittor/main/banner.svg" />
+  <img width="100%" src="./banner.svg" />
 </div>
 
 <h1>Olá, eu sou o Vitor 🖖🏻</h1>
